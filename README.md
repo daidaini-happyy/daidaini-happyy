@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://github.com" alt="Lanchonete Retrô" width="100%" />
+  <img width="640" height="480" alt="Image" src="https://github.com" />
 </p>
 
 <p align="right">
-╭ 🌺 ﹒ ₊ ˚ 𝒲
-<br><br>
-— " 𝐼 𝑙𝑜𝑣♡ 𝑀𝑦 𝐹𝑟𝑖𝑒𝑛𝑑𝑠 𝑎𝑛𝑑 𝐼 𝑊𝑖𝑠ℎ 𝑇ℎ𝑎𝑡 𝐴𝑙𝑙 𝐺𝑜𝑜𝑑 𝑇ℎ𝑖𝑛𝑔𝑠 𝐻𝑎𝑝𝑝𝑒𝑛 𝑖𝑛 𝑇ℎ𝑒𝑖𝑟 𝐿𝑖𝑣𝑒𝑠 𝐴𝑛𝑑 𝑖𝑛 𝑌𝑜𝑢𝑟 𝑇𝑜𝑜 .. "
-<br><br>
-﹒ ₊ ˚ 🍃 🐑 ╭ ﹒
+  ╭ 🌺 ﹒ ₊ ˚ 𝒲
+  <br><br>
+  — " 𝐼 𝑙𝑜𝑣♡ 𝑀𝑦 𝐹𝑟𝑖𝑒𝑛𝑑𝑠 𝑎𝑛𝑑 𝐼 𝑊𝑖𝑠ℎ 𝑇ℎ𝑎𝑡 𝐴𝑙𝑙 𝐺𝑜𝑜𝑑 𝑇ℎ𝑖𝑛𝑔𝑠 𝐻𝑎𝑝𝑝𝑒𝑛 𝑖𝑛 𝑇ℎ𝑒𝑖𝑟 𝐿𝑖𝑣𝑒s 𝐴𝑛𝑑 𝑖𝑛 𝑌𝑜𝑢𝑟 𝑇𝑜𝑜 .. "
+  <br><br>
+  ﹒ ₊ ˚ 🌱 🐑 ╭ ﹒
 </p>
