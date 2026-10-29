@@ -1,16 +1,11 @@
-## Hi there 👋
+<p align="center">
+<img src="https://github.com" alt="Lanchonete Retrô" width="100%" />
+</p>
 
-<!--
-**daidaini-happyy/daidaini-happyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+╭ 🌺 ﹒ ₊ ˚ 𝒲
+<br><br>
+— " 𝐼 𝑙𝑜𝑣♡ 𝑀𝑦 𝐹𝑟𝑖𝑒𝑛𝑑𝑠 𝑎𝑛𝑑 𝐼 𝑊𝑖𝑠ℎ 𝑇ℎ𝑎𝑡 𝐴𝑙𝑙 𝐺𝑜𝑜𝑑 𝑇ℎ𝑖𝑛𝑔𝑠 𝐻𝑎𝑝𝑝𝑒𝑛 𝑖𝑛 𝑇ℎ𝑒𝑖𝑟 𝐿𝑖𝑣𝑒𝑠 𝐴𝑛𝑑 𝑖𝑛 𝑌𝑜𝑢𝑟 𝑇𝑜𝑜 .. "
+<br><br>
+﹒ ₊ ˚ 🍃 🐑 ╭ ﹒
+</p>
